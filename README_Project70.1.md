@@ -1,4 +1,4 @@
-# Voting Contract (Project 70.1)
+# Voting Contract 
 A Solidity smart contract for a simple voting system.
 
 ## Features
