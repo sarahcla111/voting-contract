@@ -18,4 +18,4 @@ A Solidity smart contract for a simple voting system.
 - Check the votes using `getCandidates()`.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License .
