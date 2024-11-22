@@ -13,7 +13,7 @@ contract VotingContract {
     constructor(string[] memory candidateNames) {
         for (uint i = 0; i < candidateNames.length; i++) {
             candidates.push(Candidate({
-                name: candidateNames[i]  ,
+                name: candidateNames[i] ,
                 voteCount: 0
             }));
         }
